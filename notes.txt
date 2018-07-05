@@ -1,0 +1,2 @@
+https://themes.gohugo.io/hugo-universal-theme/#usage
+https://github.com/devcows/hugo-universal-theme/tree/master/exampleSite
